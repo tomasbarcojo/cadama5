@@ -1,7 +1,4 @@
 asd 1
-<<<<<<< HEAD
 Conflicto
-=======
 Hola, estamos en la
 clase de Introduccion a la informatica.
->>>>>>> 678e40ceecb91939fdb59adaa5d5fcfd05c6ff6d
